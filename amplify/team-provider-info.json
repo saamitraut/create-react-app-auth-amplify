@@ -1,0 +1,19 @@
+{
+    "saamit": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-authcra-saamit-173537-authRole",
+            "UnauthRoleArn": "arn:aws:iam::289482568917:role/amplify-authcra-saamit-173537-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::289482568917:role/amplify-authcra-saamit-173537-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-authcra-saamit-173537-deployment",
+            "UnauthRoleName": "amplify-authcra-saamit-173537-unauthRole",
+            "StackName": "amplify-authcra-saamit-173537",
+            "StackId": "arn:aws:cloudformation:us-east-1:289482568917:stack/amplify-authcra-saamit-173537/34976400-07a0-11ea-a725-1277bf9feb05"
+        },
+        "categories": {
+            "auth": {
+                "cognitocf0c6096": {}
+            }
+        }
+    }
+}
